@@ -1,0 +1,19 @@
+1.
+Behavior: Return a scrabble score for a single letter
+Input: A
+Output: 1
+
+2.
+Behavior: Return a scrabble score for any letter
+Input: H
+Output: 4
+
+3.
+Behavior: Return a scrabble score for an entire word
+Input: EPICODUS
+Output: 13
+
+4.
+Behavior: Change the case of the User Input to Uppercase
+Input: epiCodus
+Output: EPICODUS
