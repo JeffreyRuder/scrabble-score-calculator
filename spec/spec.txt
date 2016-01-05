@@ -14,6 +14,11 @@ Input: EPICODUS
 Output: 13
 
 4.
+Behavior: Don't allow spaces
+Input: "   EPICODUS   "
+Output: 13
+
+5.
 Behavior: Change the case of the User Input to Uppercase
 Input: epiCodus
 Output: EPICODUS
